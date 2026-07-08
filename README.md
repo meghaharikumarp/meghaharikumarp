@@ -5,7 +5,7 @@
 <img align="right" width="370" height="290" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghaharikumarp&label=Profile%20views&color=0e75b6&style=flat" alt="meghaharikumarp" /> </p>
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently acquiring **Data Analysis skills**
 
 
 - ⚡ Fun fact **I completed my first project with only 25% coding knowledge (only know the basics😆)**
